@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E08543&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E08543&section=header"/>
 
 <h1 align="center">☕ Coffee With Code</h1>
 
@@ -46,4 +46,5 @@ Quer contribuir com nossos projetos? Confira nosso **GitHub**, **Instagram** ou 
     <strong>Fique por dentro e vamos codar juntos! 🚀</strong>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E08543&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E08543&section=footer"/>
+
