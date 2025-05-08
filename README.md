@@ -27,6 +27,9 @@ Se você quer fazer parte de uma comunidade ativa e contribuir com projetos open
     <a href="https://discord.gg/NvsmEv4kC5" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
+    <a href="https://linktr.ee/coffeewcode" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+    </a>
 </p>
 
 ## 👥 Fundadores
@@ -36,7 +39,7 @@ Se você quer fazer parte de uma comunidade ativa e contribuir com projetos open
 
 ## 🤝 Contribua
 
-Quer contribuir com nossos projetos? Confira nosso **GitHub**, **Instagram** ou **Discord**! Toda ajuda é bem-vinda!
+Quer contribuir com nossos projetos? Confira nosso **GitHub**, **Instagram**, **Linktree** ou **Discord**! Toda ajuda é bem-vinda!
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=coffeewcode&bg_color=0d1117&color=E08543&line=F4A460&point=E08543&area=true&hide_border=true"/>
@@ -47,4 +50,3 @@ Quer contribuir com nossos projetos? Confira nosso **GitHub**, **Instagram** ou 
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E08543&section=footer"/>
-
